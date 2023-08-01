@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Leads to Telegramm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-23 11:05+0000\n"
+"PO-Revision-Date: 2023-07-23 19:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: k_telegram"
+
+#: settings.php:59
+msgid "API Key"
+msgstr "Ключ API"
+
+#: settings.php:68
+msgid "Chat ID"
+msgstr "ID Чату"
+
+#. Author of the plugin
+msgid "Constantine"
+msgstr ""
+
+#: settings.php:118
+msgid "Dont redirect"
+msgstr "Не перенаправляти"
+
+#: settings.php:77
+msgid "Email"
+msgstr "Пошта"
+
+#. ID
+#: settings.php:50
+msgid "Form content (raw HTML)"
+msgstr "Вміст форми (чистий HTML)"
+
+#: process.php:31
+msgid "Form data"
+msgstr "Дані форми"
+
+#: process.php:31
+msgid "Form sent from"
+msgstr "Форма надіслана з"
+
+#. URI of the plugin
+msgid "http://no-url.yet/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Leads to Telegram"
+msgstr "Leads to Telegram"
+
+#: settings.php:45
+msgid "Main settings"
+msgstr "Основні параметри"
+
+#: settings.php:86
+msgid "Select Thank You page"
+msgstr "Виберіть сторінку подяки"
+
+#. Description of the plugin
+msgid "Send leads to telegram and copy to email"
+msgstr "Надсилайте ліди в телеграм та копію на електронну пошту"
+
+#: settings.php:6
+msgid "Settings for telegram lead form"
+msgstr "Налаштування для форми лідів Телеграм"
+
+#. page_title
+#: settings.php:30 settings.php:31
+msgid "Telegram Leads"
+msgstr "Telegram Ліди"
+
+#: settings.php:164
+msgid "Telegram Leads thank you page"
+msgstr "Сторінка подяки Telegram Лідів"
+
+#: settings.php:95
+msgid "Thank you message content (raw HTML)"
+msgstr "Вміст повідомлення на сторінці подяки (чистий HTML)"
+
+#: process.php:49
+msgid ""
+"The service is unavailable, sorry for the technical issues, the message was "
+"not sent"
+msgstr ""
+"Сервіс недоступний, вибачте за технічні неполадки повідомлення не відправлено"
+
+#: process.php:32
+msgid "You have new lead"
+msgstr "У вас новий лід"

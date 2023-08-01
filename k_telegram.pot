@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Leads to Telegramm\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-23 19:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: k_telegram"
+
+#: settings.php:59
+msgid "API Key"
+msgstr ""
+
+#: settings.php:68
+msgid "Chat ID"
+msgstr ""
+
+#. Author of the plugin
+msgid "Constantine"
+msgstr ""
+
+#: settings.php:118
+msgid "Dont redirect"
+msgstr ""
+
+#: settings.php:77
+msgid "Email"
+msgstr ""
+
+#. ID
+#: settings.php:50
+msgid "Form content (raw HTML)"
+msgstr ""
+
+#: process.php:31
+msgid "Form data"
+msgstr ""
+
+#: process.php:31
+msgid "Form sent from"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://no-url.yet/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Leads to Telegram"
+msgstr ""
+
+#: settings.php:45
+msgid "Main settings"
+msgstr ""
+
+#: settings.php:86
+msgid "Select Thank You page"
+msgstr ""
+
+#. Description of the plugin
+msgid "Send leads to telegram and copy to email"
+msgstr ""
+
+#: settings.php:6
+msgid "Settings for telegram lead form"
+msgstr ""
+
+#. page_title
+#: settings.php:30 settings.php:31
+msgid "Telegram Leads"
+msgstr ""
+
+#: settings.php:164
+msgid "Telegram Leads thank you page"
+msgstr ""
+
+#: settings.php:95
+msgid "Thank you message content (raw HTML)"
+msgstr ""
+
+#: process.php:49
+msgid ""
+"The service is unavailable, sorry for the technical issues, the message was "
+"not sent"
+msgstr ""
+
+#: process.php:32
+msgid "You have new lead"
+msgstr ""
