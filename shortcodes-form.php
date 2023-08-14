@@ -13,6 +13,20 @@ function add_lead_form_shortcode() {
             '.wp_nonce_field( 'k_telegram_action', '_k_telegram_verif', true, false ).'
             '.do_shortcode( get_option( 'k_telegram_code_form_content', FORM_DEFAULT_CONTENT) ).'
         </form>
+        <script>
+            // Prevent Double Submits
+            document.querySelectorAll("form.k-telegram-lead-form").forEach(form => {
+                form.addEventListener("submit", (e) => {
+                    // Prevent if already submitting
+                    if (form.classList.contains("is-submitting")) {
+                        e.preventDefault();
+                    }
+                    // Add class to hook our visual indicator on
+                    form.classList.add("is-submitting");
+                    form.querySelectorAll("[type=submit]").forEach(btn => btn.classList.add("disabled"));
+                });
+            });
+        </script>
     ';
         
 }
